@@ -1,2 +1,2 @@
-# DenonAVRX3300WIP
-Denon AVR-X3300W IP Commands
+# DenonAVRX3300W
+Denon AVR-X3300W Commands
